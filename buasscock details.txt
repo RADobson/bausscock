@@ -1,0 +1,14 @@
+url: 54.218.113.209
+
+phpMyAdmin: 54.218.113.209/mysqlAdmin
+http dir: /var/www/html/bausscock
+
+mysql root user|password: root|xrb777
+wordpress mysql user|password: wordpress|J8nSTtZUj7EzyQt
+
+How to update server code with GIT:
+1. login to your server with SSH
+2. execute the following commands
+	2.1 cd /etc/www/html/bausscock
+	2.2 git pull origin master
+
